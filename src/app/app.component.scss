@@ -1,0 +1,16 @@
+:host {
+  background: black;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+.ball {
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: white;
+  position: absolute;
+}
