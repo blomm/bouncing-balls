@@ -2,7 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
-It demonstrates a very slow bouncing ball.
+It demonstrates a VERY SLOW bouncing ball.
+
+Run npm install from the root of the project.
 
 ## Development server
 
